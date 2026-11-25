@@ -1,4 +1,4 @@
-# the-world-today-25-nov
+# berita-dunia-25-nov
 
 [![make.fun · news-image-20261125](https://make.fun/badge/news-image-20261125.svg)](https://make.fun/bounty/news-image-20261125?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
 [![rank](https://make.fun/badge/news-image-20261125/febbiaullia/the-world-today-25-nov/rank.svg)](https://make.fun/bounty/news-image-20261125/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261125)
